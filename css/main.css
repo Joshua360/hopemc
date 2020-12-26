@@ -72,12 +72,12 @@ a:focus {
     text-decoration: none; 
 }
 a:focus, a:hover { 
-    color: #01d6a3; 
+    color: #8B5EC2; 
     text-decoration: none; 
 }
 a, button, input { 
     outline: medium none; 
-    color: #01d6a3; 
+    color: #8B5EC2; 
 }
 ol, ul{ 
     padding: 0; 
@@ -97,17 +97,17 @@ p {
 }
 
 *::-moz-selection { 
-    background: #01d6a3; 
+    background: #8B5EC2; 
     color: #fff; 
     text-shadow: none; 
 }
 ::-moz-selection { 
-    background: #01d6a3; 
+    background: #8B5EC2; 
     color: #fff;
     text-shadow: none; 
 }
 ::selection { 
-    background: #01d6a3; 
+    background: #8B5EC2; 
     color: #fff; 
     text-shadow: none; 
 }
@@ -183,7 +183,7 @@ input[type="url"]:focus,
 input[type="search"]:focus, 
 input[type="tel"]:focus, 
 input[type="color"]:focus {
-    border: 1px solid #01d6a3;
+    border: 1px solid #8B5EC2;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
@@ -214,7 +214,7 @@ body { font-family: "Ubuntu",Tahoma,Geneva,sans-serif;
     letter-spacing: 0px;
 
 }
-h1, h2, h3, h4, h5, h6{ font-family: "Saira",Arial,Helvetica,sans-serif; margin-bottom: 15px; font-weight: 600; color: #033b4a;}
+h1, h2, h3, h4, h5, h6{ font-family: "Saira",Arial,Helvetica,sans-serif; margin-bottom: 15px; font-weight: 600; color: #0A2A59;}
 h1 { font-size: 45px; line-height: 50px; }
 h2 { font-size: 35px; line-height: 40px; }
 h3 { font-size: 30px; line-height: 35px; }
@@ -294,7 +294,7 @@ body .page.sidebar-true .site-main{
   background-color: #fff;
 }
 
-a{ color: #033b4a; }
+a{ color: #0A2A59; }
 
 .alignleft {
     float: left;
@@ -619,7 +619,7 @@ section.error-404 .ttm-big-icon,
 .products .price .product-Price-amount,
 .products .star-ratings ul li,
 div.product .summary .star-rating {
-    color: #01d6a3;
+    color: #8B5EC2;
 }
 
 /** Skin-bg-color **/
@@ -680,7 +680,7 @@ a.checkout-button:hover, .coupon button:hover, .ttm-cart-form button:hover, .pla
 #totop.top-visible, .label-new , .testimonial-slide.owl-theme .owl-dots .owl-dot.active span,
 .testimonial-content .quote-icon::after,
 .featured-imagebox-case:before {
-    background-color: #01d6a3;
+    background-color: #8B5EC2;
 }
 
 .ttm-tabs.ttm-tab-style-vertical ul.tabs li.active a,
@@ -693,7 +693,7 @@ a.checkout-button:hover, .coupon button:hover, .ttm-cart-form button:hover, .pla
 .comment-form textarea:focus, .comment-form input[type="text"]:focus, 
 .comment-form input[type="email"]:focus, .comment-form input[type="url"]:focus,
 #reviews #review_form_wrapper select:focus{ 
-    border-color: #01d6a3; 
+    border-color: #8B5EC2; 
 }
 
 .ttm-btn.ttm-btn-style-border.ttm-btn-color-skincolor:hover {
@@ -702,7 +702,7 @@ a.checkout-button:hover, .coupon button:hover, .ttm-cart-form button:hover, .pla
 .ttm-tabs.ttm-tab-color-grey.ttm-tab-style-classic ul li.active a,
 .ttm-form-coupon-info,
 div.product ul.tabs li.active a:before {
-    border-top-color: #01d6a3;
+    border-top-color: #8B5EC2;
 }
 .tp-caption.ttm-video-icon:hover,
 .ttm-video-btn:hover .ttm-btn-play,
@@ -715,7 +715,7 @@ div.product ul.tabs li.active a:before {
 .featured-icon-box.style1:hover,
 .featured-imagebox-post.ttm-box-view-top-image:hover .featured-content-post,
 .footer .social-icons li>a, .footer .social-icons li>a:hover{
-    border-color: #01d6a3;
+    border-color: #8B5EC2;
 }
 
 /** 2.DarkGrey-color **/
@@ -738,7 +738,7 @@ div.product ul.tabs li.active a:before {
 ul.ttm-timelistbox-block li strong,
 .featured-icon-box.style3.iconalign-before-heading h5,
 .ttm-social-share-wrapper{
-  color: #033b4a;
+  color: #0A2A59;
 }
 
 /** DarkGrey-bg-color **/
@@ -766,13 +766,13 @@ ul.ttm-timelistbox-block li strong,
 .comment-list a.comment-reply-link:hover, 
 div.product button.cart_button, .form-submit input,
 a.checkout-button, .coupon button, .ttm-cart-form button, .place-order button {
-  background-color: #033b4a;
+  background-color: #0A2A59;
 }
 
 .ttm-icon_element-border.ttm-icon_element-color-darkgrey,
 .ttm-btn.ttm-btn-style-border:hover,
 .ttm-tabs.ttm-tab-style-vertical ul.tabs li a{
-  border-color: #033b4a;
+  border-color: #0A2A59;
 }
 
 /** 3.White-color **/
@@ -1183,7 +1183,7 @@ a.ttm-fbar-btn-link.ttm-close-icon .ttm-fbar-close-icon {
     height: 0;
     border-top: 20px solid transparent;
     border-bottom: 21px solid transparent;
-    border-right: 20px solid #01d6a3;
+    border-right: 20px solid #8B5EC2;
 }
 .ttm-fbar-position-right .ttm-fbar-content-wrapper {
     width: 100%;
@@ -1465,7 +1465,7 @@ ul.ttm-pricelist-block li .service-price {
     line-height: 17px;
     font-size: 9px;
     display: block;
-    background-color: #00d6a3;
+    background-color: #8A5EC1;
     color: #fff;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -1492,7 +1492,7 @@ ul.ttm-pricelist-block li .service-price {
     position: fixed;
     top: 0;
     left: 0;
-    background: #033b4a;
+    background: #0A2A59;
     height: 100%;
     width: 100%;
     z-index: 9999;
@@ -1737,7 +1737,7 @@ ul.ttm-recent-post-list li:after {
     line-height: 1em;
     font-size: 14px;
     content: "";
-    background-color: #01d6a3;
+    background-color: #8B5EC2;
     width: 11px;
     height: 1px;
     position: absolute;
@@ -1870,7 +1870,7 @@ ul.footer-nav-menu li:not(:last-child):after {
 
 .ttm-page-title-row { 
     position: relative;
-    background-image: url(../images/DSC_8384.JPG);
+    background-image: url(../images/ttm-pagetitle-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -1880,7 +1880,6 @@ ul.footer-nav-menu li:not(:last-child):after {
     padding-top: 95px; 
     padding-bottom: 85px;
     z-index: 11;
-    height:90vh;
 
 }
 
