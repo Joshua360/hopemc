@@ -1,6 +1,6 @@
 /** ==========================================================================================
 
-  Project :   Delmont - Responsive Multi-purpose HTML5 Template
+  Project :   HMC - Responsive Multi-purpose HTML5 Template
   Version :   Bootstrap 4.1.1
   Author :    Themetechmount
 
@@ -212,7 +212,7 @@
 
     });
 
-    function delmont_menuhover_item() {
+    function HMC_menuhover_item() {
 
         var tm_menu_item,tm_leftmenu,tm_menu_width,tm_parentli_width;
         var tm_sepline=jQuery(".ttm-sepline");
@@ -249,7 +249,7 @@
         if(active_item.length==0){tm_sepline.stop().animate({opacity:0})}}
             )}
 
-        jQuery("header:not(.ttm-header-style-classic-overlay) #site-header-menu #site-navigation .menu > ul").append("<li class='ttm-sepline'><span class='sep-img'></span></li>");delmont_menuhover_item()
+        jQuery("header:not(.ttm-header-style-classic-overlay) #site-header-menu #site-navigation .menu > ul").append("<li class='ttm-sepline'><span class='sep-img'></span></li>");HMC_menuhover_item()
 
 
 /*------------------------------------------------------------------------------*/
