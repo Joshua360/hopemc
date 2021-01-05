@@ -997,7 +997,7 @@
 
 @media (max-width: 575px){
 
-	.site-branding img{ max-height: 100px; }
+	.site-branding img{ max-height: 40px; }
 
 	.ttm-fid-border .row > [class*='col-']:not(:last-child) { border-bottom: 1px solid ; }
 	.ttm-facts-colum-sep .col-md-3{ padding: 10px 0 0; }
